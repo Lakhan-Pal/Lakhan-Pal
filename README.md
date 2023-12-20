@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hello, I'm Lakhan Pal!
 
-<!--
-**Lakhan-Pal/Lakhan-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Python Developer | 
 
-Here are some ideas to get you started:
+👨‍💻 I specialize in:
+   - Python 🐍
+   - Django 🌐
+   - Data Science 📈
+   - HTML, CSS, Bootstrap 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring new technologies to enhance my skills.
+
+💼 Open to collaboration and excited about contributing to meaningful projects.
+
+📫 Let's connect!
+   - LinkedIn: https://www.linkedin.com/in/lakhan-pal-970236256
